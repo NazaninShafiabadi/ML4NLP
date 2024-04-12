@@ -1,5 +1,5 @@
 # ML4NLP
-Machine Learning Projects for Natural Language Processing
+Titles of some of my Natural Language Processing (NLP) projects involving machine learning, completed during my master’s degree.
 
 ## List of Projects 
 
